@@ -1,2 +1,2 @@
 # pyQt5_learn
-note my learning road of learn pyQt5
+note my road of llearning pyQt5
